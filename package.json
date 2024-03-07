@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/githubuniverseworkshops/github-devsecops-fundamentals.git"
+    "url": "git+https://github.com/gh-devsecops/fundamentals.git"
   },
   "keywords": [
     "GitHub",
@@ -24,9 +24,9 @@
   "author": "services@github.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/githubuniverseworkshops/github-devsecops-fundamentals/issues"
+    "url": "https://github.com/gh-devsecops/fundamentals/issues"
   },
-  "homepage": "https://github.com/githubuniverseworkshops/github-devsecops-fundamentals#readme",
+  "homepage": "https://github.com/gh-devsecops/fundamentals#readme",
   "devDependencies": {
     "@playwright/test": "^1.40.0",
     "@types/node": "^20.10.0",

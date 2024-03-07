@@ -23,7 +23,7 @@ You may create a new GitHub account, if you do not already have one. (1)
 
 ## :material-numeric-2-circle: :material-source-repository-multiple:{ .lg .middle } **Clone the workshop project to your own account**
 
-1. [:material-cursor-default-click: Create workshop project](https://github.com/new?template_owner=githubuniverseworkshops&template_name=github-devsecops-fundamentals&owner=%40me&name=github-devsecops-fundamentals&description=GitHub+DevSecOps+Fundamentals+%7C+GitHub+Universe+2023+workshop&visibility=public){.md-button target="\_blank"}
+1. [:material-cursor-default-click: Create workshop project](https://github.com/new?template_owner=gh-devsecops&template_name=fundamentals&owner=%40me&name=github-devsecops-fundamentals&description=GitHub+DevSecOps+Fundamentals&visibility=public){.md-button target="\_blank"}
 1. In the new tab, most of the prompts will automatically fill in for you and the default settings should be fine. Otherwise...
 
       - For owner, choose your personal account or.
