@@ -1,7 +1,7 @@
 {
   "name": "github-devsecops-fundamentals",
   "version": "1.0.0",
-  "description": "GitHub Universe 2023 workshop: GitHub DevSecOps Fundamentals",
+  "description": "GitHub DevSecOps Fundamentals Workshop",
   "main": "index.js",
   "directories": {
     "doc": "docs"

@@ -4,7 +4,7 @@ edit_uri: edit/main/docs/
 site_url: https://gh-devsecops.github.io/fundamentals
 site_name: GitHub DevSecOps Fundamentals
 site_author: Igwe Kalu <igwejk@github.com>
-site_description: GitHub Universe 2023 | Workshop
+site_description: GitHub DevSecOps Fundamentals | Workshop
 
 remote_name: origin
 remote_branch: gh-pages
@@ -14,6 +14,8 @@ repo_name: GitHub Repository
 
 theme:
   name: material
+
+  custom_dir: theme.override/
 
   icon:
     logo: simple/githubactions
