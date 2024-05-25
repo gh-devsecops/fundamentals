@@ -156,16 +156,16 @@ nav:
       - Introduction: exercises/index.md
       - Collaborate:
           - exercises/01.collaborate/index.md
-          - exercises/01.collaborate/01.md
-          - exercises/01.collaborate/02.md
+          - Project Management: exercises/01.collaborate/01.md
+          - Implement Features: exercises/01.collaborate/02.md
       - Secure the Software Supply Chain:
           - exercises/02.secure.the.software.supply.chain/index.md
-          - exercises/02.secure.the.software.supply.chain/01.md
-          - exercises/02.secure.the.software.supply.chain/02.md
+          - Dependency Review: exercises/02.secure.the.software.supply.chain/01.md
+          - Versioning: exercises/02.secure.the.software.supply.chain/02.md
       - Automate Release:
           - exercises/03.automate.release/index.md
-          - exercises/03.automate.release/01.md
-          - exercises/03.automate.release/02.md
+          - Release Version: exercises/03.automate.release/01.md
+          - Continuous Deployment: exercises/03.automate.release/02.md
       - ✨ Recap:
           - exercises/recap/index.md
   - Tetris Game: tetris.game/index.html
